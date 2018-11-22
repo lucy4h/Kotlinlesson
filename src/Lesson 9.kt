@@ -1,0 +1,1 @@
+coolection.map(){}
